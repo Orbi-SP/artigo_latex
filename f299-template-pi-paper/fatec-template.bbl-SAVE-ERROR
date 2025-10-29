@@ -1,0 +1,52 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{MORAN2018}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=943d1f5463ce305ce1cca014c52ec1ca}{%
+           family={{José Manuel Moran}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{fullhash}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{fullhashraw}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{bibnamehash}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{authorbibnamehash}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{authornamehash}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{authorfullhash}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{authorfullhashraw}{943d1f5463ce305ce1cca014c52ec1ca}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A integração das tecnologias na educação}
+      \verb{urlraw}
+      \verb https://moran.eca.usp.br/textos/tecnologias_eduacacao/
+      \endverb
+      \verb{url}
+      \verb https://moran.eca.usp.br/textos/tecnologias_eduacacao/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,226 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{FREITAS2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=371b261f19682742a23c655b7f4a45d3}{%
+           family={{FREITAS, S. de; REBOLLEDO-MÉNDEZ, G.; LIRA, J.}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{371b261f19682742a23c655b7f4a45d3}
+      \strng{fullhash}{371b261f19682742a23c655b7f4a45d3}
+      \strng{fullhashraw}{371b261f19682742a23c655b7f4a45d3}
+      \strng{bibnamehash}{371b261f19682742a23c655b7f4a45d3}
+      \strng{authorbibnamehash}{371b261f19682742a23c655b7f4a45d3}
+      \strng{authornamehash}{371b261f19682742a23c655b7f4a45d3}
+      \strng{authorfullhash}{371b261f19682742a23c655b7f4a45d3}
+      \strng{authorfullhashraw}{371b261f19682742a23c655b7f4a45d3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Realidade Virtual aplicada ao ensino técnico: um estudo sobre baixo custo e acessibilidade}
+      \verb{urlraw}
+      \verb https://moran.eca.usp.br/textos/tecnologias_eduacacao/
+      \endverb
+      \verb{url}
+      \verb https://moran.eca.usp.br/textos/tecnologias_eduacacao/
+      \endverb
+    \endentry
+    \entry{MORAN2018}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=943d1f5463ce305ce1cca014c52ec1ca}{%
+           family={{José Manuel Moran}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{fullhash}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{fullhashraw}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{bibnamehash}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{authorbibnamehash}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{authornamehash}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{authorfullhash}{943d1f5463ce305ce1cca014c52ec1ca}
+      \strng{authorfullhashraw}{943d1f5463ce305ce1cca014c52ec1ca}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A integração das tecnologias na educação}
+      \verb{urlraw}
+      \verb https://moran.eca.usp.br/textos/tecnologias_eduacacao/
+      \endverb
+      \verb{url}
+      \verb https://moran.eca.usp.br/textos/tecnologias_eduacacao/
+      \endverb
+    \endentry
+    \entry{PIRKER2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1bedcd9f8d4994fd29b59218195fadeb}{%
+           family={Pirker},
+           familyi={P\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4826065861f19592d3626600be693f4}{%
+           family={Holly},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c05719cfcf770a8664f8e5ff972c1967}{%
+           family={Kopf},
+           familyi={K\bibinitperiod},
+           given={Sonja},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87c1c33fd657947f584285e1246f535e}{%
+           family={Gütl},
+           familyi={G\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{59bc53e7938ecd9a9f510ac6dc0f97fb}
+      \strng{fullhash}{57e0d36643c557af405042c3a10877bd}
+      \strng{fullhashraw}{57e0d36643c557af405042c3a10877bd}
+      \strng{bibnamehash}{59bc53e7938ecd9a9f510ac6dc0f97fb}
+      \strng{authorbibnamehash}{59bc53e7938ecd9a9f510ac6dc0f97fb}
+      \strng{authornamehash}{59bc53e7938ecd9a9f510ac6dc0f97fb}
+      \strng{authorfullhash}{57e0d36643c557af405042c3a10877bd}
+      \strng{authorfullhashraw}{57e0d36643c557af405042c3a10877bd}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Maroon VR: Virtual Physics Laboratory for Learning and Teaching Physics}
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/articles/10.3389/frvir.2021.584046/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/articles/10.3389/frvir.2021.584046/full
+      \endverb
+    \endentry
+    \entry{SCHMID2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=58ef30159a40139f51c8605979d5ffb5}{%
+           family={Schmid},
+           familyi={S\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6bfcdc02392e457a259cdbf34a81222}{%
+           family={Vaterlaus},
+           familyi={V\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03325991931b554fc9125872236a91df}{%
+           family={Lichtenberger},
+           familyi={L\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e6e455ad68980fadc3465b48dedaf0d0}
+      \strng{fullhash}{e6e455ad68980fadc3465b48dedaf0d0}
+      \strng{fullhashraw}{e6e455ad68980fadc3465b48dedaf0d0}
+      \strng{bibnamehash}{e6e455ad68980fadc3465b48dedaf0d0}
+      \strng{authorbibnamehash}{e6e455ad68980fadc3465b48dedaf0d0}
+      \strng{authornamehash}{e6e455ad68980fadc3465b48dedaf0d0}
+      \strng{authorfullhash}{e6e455ad68980fadc3465b48dedaf0d0}
+      \strng{authorfullhashraw}{e6e455ad68980fadc3465b48dedaf0d0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Exploring Electric Fields and Potentials in Virtual Reality: A Learning Environment Using Microsoft HoloLens}
+      \verb{urlraw}
+      \verb https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.18.010102
+      \endverb
+      \verb{url}
+      \verb https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.18.010102
+      \endverb
+    \endentry
+    \entry{TERRA2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff1de5869662a07aee9ce8d35a66a1e6}{%
+           family={Terra},
+           familyi={T\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{fullhash}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{fullhashraw}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{bibnamehash}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{authorbibnamehash}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{authornamehash}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{authorfullhash}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{authorfullhashraw}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Google Expeditions e o futuro da educação imersiva}
+      \verb{urlraw}
+      \verb https://www.google.com/edu/expeditions/
+      \endverb
+      \verb{url}
+      \verb https://www.google.com/edu/expeditions/
+      \endverb
+    \endentry
+    \entry{UNESCO2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=271bdd5e7906876c9fba9b8975c0cc31}{%
+           family={{UNESCO, 2021}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{271bdd5e7906876c9fba9b8975c0cc31}
+      \strng{fullhash}{271bdd5e7906876c9fba9b8975c0cc31}
+      \strng{fullhashraw}{271bdd5e7906876c9fba9b8975c0cc31}
+      \strng{bibnamehash}{271bdd5e7906876c9fba9b8975c0cc31}
+      \strng{authorbibnamehash}{271bdd5e7906876c9fba9b8975c0cc31}
+      \strng{authornamehash}{271bdd5e7906876c9fba9b8975c0cc31}
+      \strng{authorfullhash}{271bdd5e7906876c9fba9b8975c0cc31}
+      \strng{authorfullhashraw}{271bdd5e7906876c9fba9b8975c0cc31}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Educação e tecnologia: Relatório Global de Monitoramento da Educação 2021}
+      \verb{urlraw}
+      \verb https://unesdoc.unesco.org
+      \endverb
+      \verb{url}
+      \verb https://unesdoc.unesco.org
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

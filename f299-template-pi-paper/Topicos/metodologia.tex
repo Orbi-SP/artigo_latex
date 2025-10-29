@@ -1,0 +1,39 @@
+O desenvolvimento do projeto SAVIT foi estruturado com base em uma abordagem modular, que permitiu a organização das tarefas entre os membros da equipe de forma eficiente e colaborativa. Cada módulo do sistema corresponde a uma etapa específica do processo de construção da aplicação, sendo fundamentado em ferramentas amplamente utilizadas no desenvolvimento de soluções baseadas em realidade virtual e aumentada (RV/RA).
+
+O SAVIT será desenvolvido em C\# utilizando o motor gráfico Unity3D. Ao abrir a aplicação, o usuário encontrará um menu inicial com opções para ajustar configurações gráficas, de jogabilidade e de acessibilidade. Ao clicar em “Jogar”, a experiência será iniciada. Nesta primeira versão, o SAVIT será mais simples, oferecendo uma simulação interativa em 3D do processo de montagem de um computador, onde o usuário poderá, por exemplo, posicionar a placa-mãe dentro do gabinete. Abaixo está o fluxograma para ilustrar melhor o funcionamento:
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\textwidth]{Imagem/Fluxograma_SAVIT.png}
+    \caption{Fluxograma do funcionamento do sistema SAVIT.} 
+    \label{fig:fluxo_SAVIT}
+\end{figure}
+
+Como representado pelo fluxograma acima, após fazer um gesto de segurar com as mãos o sistema irá levantar a peça significando que o item foi pego, como na Imagem A e B.
+
+\begin{figure}[H]
+    \centering
+    \captionsetup{labelformat=empty}
+    \includegraphics[width=0.9\textwidth]{Imagem/imagem A.png}
+    \caption{Imagem A - O item sobre a mesa será coletado após fazer um gesto de "pegar" com as mãos.} 
+    \label{fig:placa_mesa}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \captionsetup{labelformat=empty}
+    \includegraphics[width=0.9\textwidth]{Imagem/imagem B.png}
+    \caption{Imagem B - O item está sendo "segurado" pelo usuário.} 
+    \label{fig:placa_ar}
+\end{figure}
+
+Seguindo o fluxograma após mover a peça ao local correto, ela será alocada e travada, como na Imagem C.
+
+\begin{figure}[H]
+    \centering
+    \captionsetup{labelformat=empty}
+    \includegraphics[width=0.9\textwidth]{Imagem/imagem C.png}
+    \caption{Imagem C - A peça foi alocada corretamente assim travando-a no gabinete.} 
+    \label{fig:placa_travada}
+\end{figure}
+

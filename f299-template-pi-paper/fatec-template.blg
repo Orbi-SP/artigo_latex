@@ -1,0 +1,15 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'fatec-template.blg'
+[174] biber-MSWIN64:342> INFO - === 
+[241] Biber.pm:421> INFO - Reading 'fatec-template.bcf'
+[417] Biber.pm:1002> INFO - Found 6 citekeys in bib section 0
+[438] Biber.pm:4487> INFO - Processing section 0
+[459] Biber.pm:4678> INFO - Looking for bibtex file 'fatec-article.bib' for section 0
+[560] bibtex.pm:1713> INFO - LaTeX decoding ...
+[571] bibtex.pm:1519> INFO - Found BibTeX data source 'fatec-article.bib'
+[664] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[665] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[665] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[665] Biber.pm:4313> INFO - No sort tailoring available for locale 'pt-BR'
+[692] bbl.pm:676> INFO - Writing 'fatec-template.bbl' with encoding 'UTF-8'
+[697] bbl.pm:779> INFO - Output to fatec-template.bbl

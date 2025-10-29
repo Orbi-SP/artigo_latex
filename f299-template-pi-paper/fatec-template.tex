@@ -1,0 +1,59 @@
+\documentclass[
+  a4paper,
+  12pt,
+  english,
+  brazilian,
+]{article}
+
+\usepackage{pdflscape}
+\usepackage{pdfpages}
+\usepackage[]{fatec-article}
+\usepackage{float}
+
+\Author{1}{Name={Éric Pinheiro Abrahão Leandro \\ Kaique Silva Pinto\\ Lucas do Nascimento Miura\\ Luiz Ricardo Wandenkolk Medina\\ Pedro Henrique da Silva}}
+
+\Author{2}{Name={\{Eric.leandro@fatec.sp.gov.br\} \\ \{kaique.silva58@fatec.sp.gov.br\} \\ \{lucas.miura@fatec.sp.gov.br\} \\ \{luiz.medina@fatec.sp.gov.br\} \\ \{pedro.silva373@fatec.sp.gov.br\}}}
+
+\Keyword{1}{Sistema Educacional}{Educational system}
+\Keyword{2}{Realidade Virtual}{Virtual Reality}
+\Keyword{3}{Redes de Computadores}{Computer Networks}
+
+\begin{Abstract}[brazilian]
+  Este trabalho apresenta uma proposta de sistema educacional acessível, baseado em Realidade Virtual (RV), voltado ao ensino prático de montagem de hardware e redes de computadores. A ideia central é permitir que estudantes, mesmo em instituições com poucos recursos, possam vivenciar a prática por meio de simulações imersivas e interativas, reduzindo a dependência de equipamentos físicos, muitas vezes caros e de difícil acesso. Ao recriar ambientes realistas em um formato virtual, o projeto busca facilitar o aprendizado técnico, estimular a autonomia do aluno e ampliar as possibilidades de ensino-aprendizagem na área de Tecnologia da Informação (TI). Além disso, a proposta considera a inclusão digital como um dos seus pilares, contribuindo para uma educação mais democrática, moderna e conectada com as demandas do mercado.
+\end{Abstract}
+
+\begin{Abstract}[english]
+  This paper presents a proposal for an accessible educational system based on Virtual Reality (VR), aimed at the practical teaching of hardware assembly and computer networks. The central idea is to enable students, even in institutions with limited resources, to experience hands-on practice through immersive and interactive simulations, reducing dependence on physical equipment, which is often expensive and hard to access. By recreating realistic environments in a virtual format, the project aims to facilitate technical learning, encourage student autonomy, and expand teaching-learning possibilities in the field of Information Technology (IT). Furthermore, the proposal considers digital inclusion as one of its core principles, contributing to a more democratic, modern, and market-connected education.
+\end{Abstract}
+
+\makeindex
+
+\addbibresource{fatec-article.bib}
+
+\begin{document}
+
+\section*{Introdução}%
+\label{sect:intro}
+\input{Topicos/introducao}
+
+\section*{OBJETIVO}\label{sect:obj}
+
+\input{Topicos/objetivo}
+
+\section*{ESTADO DA ARTE}\label{sect:estadoarte}
+
+\input{Topicos/estadodaarte}
+
+\section*{METODOLOGIA}\label{sect:metodologia}
+
+\input{Topicos/metodologia}
+
+\section*{REFERÊNCIAS}\label{sect:referencias}
+
+\input{Topicos/referencias}
+
+\newpage
+
+\printbibliography
+
+\end{document}
